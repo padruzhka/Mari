@@ -19,5 +19,5 @@
   Сравниваются: Logistic Regression (from scratch) и Decision Tree (sklearn).
 
 ## Как запустить
-1) Открой ноутбук в Google Colab.
-2) Загрузи Feature-Race.csv (через upload) и запусти Run All.
+1) Открыть ноутбук в Google Colab.
+2) Загрузить Feature-Race.csv и запустить весь код
